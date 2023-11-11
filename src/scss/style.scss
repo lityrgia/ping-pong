@@ -1,0 +1,13 @@
+@import 'reset.scss';
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.canvas {
+    background: #f3f3f3;
+}
